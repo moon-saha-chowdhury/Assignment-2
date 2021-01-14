@@ -1,0 +1,97 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.menu{
+    border:0;
+    background-color:rgb(252, 247, 228);
+
+}
+
+
+.menu a{
+    color:#363958;
+    font-weight: bold;
+}
+.menu a img{
+    padding-left:45px;
+}
+.penguin-top{
+    background-color:rgb(252, 247, 228);
+}
+
+
+.top-part h1{
+    width:95%;
+    font-size: 50px;
+    color:#fcc22f;
+
+}
+h2{
+    color:#363958;
+
+}
+.text-highlight{
+    color:#363958;
+    font-weight:bold;
+
+}
+ p{
+    color:#6c6d77;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 38px;
+    color:#fcc22f;
+
+
+}
+.penguin-card{
+    border:0;
+
+}
+.penguin-card-footer{
+    background-color: white;
+    border:0;
+}
+.penguin-card img{
+    height: 320px;
+    padding: 50px;
+    margin: 0 30px;
+    border-radius: 20px;
+    place-content: center;
+
+}
+.card-button, .top-button{
+    border:0;
+    color:white;
+    border-radius: 10px;
+    background-color: rgb(129, 167, 8);
+}
+.card-button{
+    margin-left: 60px;
+
+}
+.box{
+    margin: 30px 45px;
+    height: 120px;
+    border-radius:10px;
+    padding: 10px 15px;
+}
+button:hover{
+    background-image:linear-gradient(45deg, rgb(172, 230, 39),rgb(129, 167, 8));
+
+}
+.contact-us{
+    height: 300px;
+    background-color:rgb(252, 247, 228);
+
+}
+.contact-btn{
+    background-color: rgb(129, 167, 8);
+    color:white;
+
+
+}
+
